@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-drive-367208",
+  "private_key_id": "b162e974341786f9ba6c35c7724bc0cd0aa66b00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbKj8H8PLJB51p\npW2+6gPkA7rH+lDkfmt34BQrLzj762mx1j77M901+sPLnyWXtTBFbD/AbN17w9KR\ntbAeCr59cHwQVBcYlFfU18Svzl3N1xGWSwU8mtMrgFlJYfXulHxr4u2czhHwOWH6\neYj3QXjmAmifO+ou3Uj7tCRaeTtbeWUqaCA7Ixfk7kSaDt5pduuYa3R+/y+G0Lbw\npvqUbNmrJVErciuoD8WYO1W/io1vascoEGsr5e3k0M2wWC1u9MlR5rh8hxBhPgCB\nlMo6p4BPbpEO9hF538quAI4w18lW6GlU41WElKo5Vu2Bggw4Zu8Yr+gnRf6ZlR0q\ngYge1TD3AgMBAAECggEAEm+uV7OsKL8MPdvdrIaxBxhNOQ9UiLQdxDrEV5GkYITA\nImaca7NEM4tBtzpPBkEGq4BcqIo/425oozs+cniC57hzp0f7nWS1MsFn2UYp2+vw\nncz3xs5bXzhvyl2EO6qgAM9ZH6yyE5wwIsrge7Q1QFwJgwOeQoz427uep0G1fY9D\nxQLKUMqeA5kyvKnU/7LZ+M7puBAALxas+bjUt4wERtEPfraPyhI6xz6VTXD4gML8\nOMSgqw4Y366RPzqZRFqxuUnZI8ztqFYImjSa3kyqt7QfIcMZZI5+bjqG6yp6fa7A\nHRiFvbQfJ0Ooj84LXi3kIlh+iM/bP3i5DZEg955tOQKBgQD8tTHy52KabBdPhpCK\nXe/QUg6/MoowcxTEe8iVcIh3jArqssE/b2eCOtzGeIXjCMXXgU+EGmb1fF+It1aF\ngVm3l6/Gs+gQIc7cuY0A3QiMM22xUYtVuFOyQkdQeY3WLh5r+w2TS09IQe47Hs1K\ni3Ltaa2jCPf4188kHIJjcZbHPQKBgQDeBS7HU80tFPJWvKHeBvvoWccRYbzSK2xC\nrc7RmLC1Y3DZXSbwXwMlEQ8JTy2f31q7j94jCBSW5zzkrKxggyFnctD/i4Iwh1S4\ngPljWdWzUHu0PCz3fQNvjAt4y+NL4/XJuLhTds4AzhcGRfsNWvtr9sTvGvF5Lkt/\nYTNzlSv8QwKBgQCGGEAg/Nc9yg20jVs1kRMoH+LjYhYiD279tBGD+urvRMimMaSJ\n3Lu4RzPPvTSOfKE+8ccX+kqYCR9IlMC8px7MZRlI/z4tEUOLrIo94wweGUwjw3mE\nSwNem/zrnxS8ikxqUBWsC1JOrW2UwYt9+vFJOcKBuMicqyenqdkmm6e+oQKBgQDS\n1z8mQfn+Dv9YyYg6jo1ZiTCX3CZxvJTx+ZcHyqY9i7LWaTUaXlBhOgL6hzu/sF+8\n8RI2WG0dJXnZe/WzLbRiRlId7EF1jn8xPCIZbG2Z/RuM/PyDBzBlFSyryYwQPOrk\nZ0x8zr0xXIXXCkww0a8kR1Ob8g1RVFqUHB29bPM5ewKBgQCux/xMJ055n+heoywA\nhQKZ3ga8GMg3US5ltxClfdKISlkJagC4QsY3p1eYzTE0Zj15MhDRlhm6QrdDRRqg\n6/3aeqqJxoqtE2CYtjdky0YUroRharN8pIlnwtSZ+49+hDcesF7NchCR2GTff3m2\n+nxl0dPGghkRb+05KZN7otXY/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-drive-python@python-drive-367208.iam.gserviceaccount.com",
+  "client_id": "111636270244707508373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-drive-python%40python-drive-367208.iam.gserviceaccount.com"
+}

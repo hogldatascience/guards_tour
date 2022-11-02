@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Modify values</title>
+    </head>
+    <body>
+
+        <h2>Guards Tour Modify Color</h2>
+
+        <div class = "Upload-Form">
+            
+            <form action="upload_form" method="post">
+
+                <label for="Name">Select color</label>
+
+                {% csrf_token %}
+
+                <select name="color_html" id="" required>
+
+                    <option value="Red">Red</option>
+                    <option value="Orange">Orange</option>
+
+                </select>
+
+                <br>
+                <br>
+
+                <label for="parameters"> Between 2 bip with the same reader (hh:mm)</label>
+                <br>
+                <input name = "reader_html" id="text" type="text" step="any">
+                <br>
+                <br>
+                <label for="parameters"> Between 2 bip on the same tag (hh:mm)</label>
+                <br>
+                <input name = "tag_html" id="text" type="text" step="any">
+                <br>
+                <br>
+                <label for="parameters">Between 2 bip in the same area (hh:mm)</label>
+                <br>
+                <input name = "area_html" id="text" type="text" step="any">
+                <br>
+
+                <br>
+
+                <input type="submit" value="Modify">
+
+            </form>
+            
+            <h5 style="color:Red;">{{message}}</h5>
+          
+        </div>
+
+    </body>
+
+</html>
